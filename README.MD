@@ -1,3 +1,5 @@
+<img src="https://github.com/KernFerm/Gizmo-Genius-Discord-Bot/blob/main/gizmogenius.png" alt="Gizmo Genius" width="300">
+
 # 🤖 GizmoGenius Discord Bot
 
 Welcome to the official repository for GizmoGenius, your friendly Discord assistant! 🌟 GizmoGenius is designed to enhance your Discord experience by providing quick advice and helpful commands to improve interaction within your server.
@@ -25,3 +27,5 @@ The best way to inquire about adding GizmoGenius to your server is by joining ou
 Having trouble with GizmoGenius? Check out our `#gizmo-genius-support` channel in our Discord server and we’ll help you sort it out.
 
 Thank you for your interest in GizmoGenius! We look forward to seeing you in the server and hope you find the bot as helpful as we do. 🌍🎮
+---
+---
