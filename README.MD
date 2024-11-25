@@ -1,4 +1,7 @@
-<img src="https://github.com/KernFerm/Gizmo-Genius-Discord-Bot/blob/main/gizmogenius.png" alt="Gizmo Genius" width="300">
+<p align="center">
+  <img src="https://github.com/KernFerm/Gizmo-Genius-Discord-Bot/blob/main/gizmogenius.png" alt="Gizmo Genius" width="300">
+</p>
+
 
 # 🤖 GizmoGenius Discord Bot
 
